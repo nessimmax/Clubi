@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Robin</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="signup_link">Don\'t have an account? Sign up</string>
+    <string name="forgot_password">Forgot Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signin_link">Already have an account? Sign in</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="remember_password">Remember your password? Login</string>
+</resources>
